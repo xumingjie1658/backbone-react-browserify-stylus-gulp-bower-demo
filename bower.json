@@ -1,0 +1,16 @@
+{
+  "name": "painter-discover",
+  "description": "the discovery module of the painter united",
+  "version": "0.0.0",
+  "homepage": "http://nosvn.shepinxiu.com/painter-h5/painter-h5.git",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "react": "~0.13.3",
+    "immutable": "~3.7.4",
+    "backbone" : "~1.2.1",
+    "backbone.localstorage" : "~1.1.16",
+    "jquery" : "~2.1.0",
+    "underscore" : "~1.8.3"
+  }
+}
